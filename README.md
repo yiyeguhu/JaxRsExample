@@ -12,4 +12,4 @@ mvn clean package
 mvn embedded-glassfish:run
 ```
 
-Go to [](http://localhost:8080/jaxrsexample/hello/world)
+Go to [http://localhost:8080/jaxrsexample/hello/world](http://localhost:8080/jaxrsexample/hello/world)
